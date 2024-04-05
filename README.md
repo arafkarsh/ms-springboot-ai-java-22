@@ -1,9 +1,5 @@
 # Spring AI
 
-## Microservice Structure
-
-![Package Structure](https://raw.githubusercontent.com/arafkarsh/ms-springboot-324-java-22-jakarta-ee-10/master/diagrams/MS-Pkg-Structure.jpg)
-
 ## Spring AI
 
 ### Chat Models
@@ -26,7 +22,46 @@
 - OpenAI with DALL-E
 - StabilityAI
 
+## Transcription (audio to text) Models
 
+- OpenAI
+
+## Embedding Models
+
+- OpenAI
+- Azure OpenAI
+- Ollama
+- ONNX
+- PostgresML
+- Bedrock Cohere
+- Bedrock Titan
+- Google VertexAI
+- Mistal AI
+
+The Vector Store API provides portability across different providers, featuring a novel SQL-like metadata filtering API that maintains portability.
+
+## Vector Databases
+
+- Azure Vector Search
+- Chroma
+- Milvus
+- Neo4j
+- PostgreSQL/PGVector
+- PineCone
+- Redis
+- Weaviate
+- Qdrant
+
+## Models supported are
+
+- OpenAI
+- Azure OpenAI
+- VertexAI
+- Mistral AI
+
+## Microservice Structure
+
+![Package Structure](https://raw.githubusercontent.com/arafkarsh/ms-springboot-324-java-22-jakarta-ee-10/master/diagrams/MS-Pkg-Structure.jpg)
 
 ### What the Template Provides out of the box
 
