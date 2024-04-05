@@ -1,8 +1,32 @@
-# Microservice Cache / Kafka Template
+# Spring AI
 
 ## Microservice Structure
 
 ![Package Structure](https://raw.githubusercontent.com/arafkarsh/ms-springboot-324-java-22-jakarta-ee-10/master/diagrams/MS-Pkg-Structure.jpg)
+
+## Spring AI
+
+### Chat Models
+
+- OpenAI
+- Azure Open AI
+- Amazon Bedrock
+   - Cohere's Command
+   - AI21 Labs' Jurassic-2
+   - Meta's LLama 2
+   - Amazon's Titan
+- Google Vertex AI Palm
+- Google Gemini
+- HuggingFace - access thousands of models, including those from Meta such as Llama2
+- Ollama - run AI models on your local machine
+- MistralAI
+
+### Text-to-image Models
+
+- OpenAI with DALL-E
+- StabilityAI
+
+
 
 ### What the Template Provides out of the box
 
